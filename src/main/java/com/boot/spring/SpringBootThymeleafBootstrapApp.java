@@ -8,10 +8,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootRestBootstrapApp implements CommandLineRunner {
+public class SpringBootThymeleafBootstrapApp implements CommandLineRunner {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootRestBootstrapApp.class, args);
+		SpringApplication.run(SpringBootThymeleafBootstrapApp.class, args);
 	}
 
 	@Autowired
