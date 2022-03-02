@@ -1,8 +1,8 @@
 Spring Boot Web application with REST, thymeleaf and bootstrap JS
 
-technologies : java 11, Gradle, Spring boot, JPA, H2 inline DB,  thymeleaf, bootstrap JS
+technologies : java 8, Gradle, Spring boot, JPA, H2 inline DB,  thymeleaf, bootstrap JS
 
---Navigate to application location on command prompt: Run "gradle clean eclipse"
+--Navigate to application location on command prompt: Run "gradle clean idea"
 
 --Run the application and access on browser. home page : http://localhost:9091/SpringBootThymeleafBootstrapApp/students
 
